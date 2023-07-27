@@ -1,0 +1,3 @@
+#!/bin/sh
+
+echo interactive mode is disabled
