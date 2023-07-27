@@ -1,5 +1,4 @@
 ![License](https://img.shields.io/github/license/aram-hamo/git-server?style=for-the-badge)
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/aram-hamo/git-server/php.yml?style=for-the-badge)
 
 ## Contact
 Aram Hamo - [contact@aramhamo.me](mailto:contact@aramhamo.me)
