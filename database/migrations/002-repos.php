@@ -7,7 +7,7 @@ $table = new class {
     $s = new Schema;
     $m = new Migration;
     $m->id();
-    $m->text("name")->unique("name");
+    $m->text("name");
     $m->text("description");
 
     $s->create($GLOBALS['tableName'],$m->table,$m->options);
